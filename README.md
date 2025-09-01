@@ -19,7 +19,6 @@ Ecommerce_Data_Analysis/
 │
 ├── Data/
 │   ├── ecommerce_dataset.csv        # raw dataset
-│   ├── cleaned_ecommerce.csv        # cleaned dataset
 │   ├── output_top_customers.csv     # top customers by revenue
 │   ├── output_top_products.csv      # best-selling products
 │   ├── output_least_products.csv    # least-selling products
