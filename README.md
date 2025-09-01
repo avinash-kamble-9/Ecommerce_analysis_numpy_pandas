@@ -104,6 +104,6 @@ Ecommerce_Data_Analysis/
 
 ## 👨‍💻 Author
 
-**Avinash Kamble**
+**Avinash Kamble** -->
 [LinkedIn](https://www.linkedin.com/in/avinashzz)
 
