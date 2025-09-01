@@ -20,14 +20,15 @@ Ecommerce_analysis_numpy_pandas/
 │   └── ecommerce_dataset.csv
 │
 │── notebook/
-│   └── notebook_analysis.ipynb
+│   └── analysis_notebook.ipynb
 │
 │── output/
-│   ├── top_customers.csv
-│   ├── top_products.csv
+│   ├── daily_sales.csv
 │   ├── least_products.csv
 │   ├── monthly_sales.csv
-│   └── rfm.csv
+│   ├── rfm.csv
+│   └── top_customers.csv
+│   └── top_products.csv
 │
 │── README.md
 
