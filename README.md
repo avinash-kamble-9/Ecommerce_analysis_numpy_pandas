@@ -38,10 +38,9 @@ Ecommerce_Data_Analysis/
 
 ## ⚙️ Installation & Setup
 1. Clone this repository:
-   ```bash
+     bash
    git clone https://github.com/avinash-kamble-9/Ecommerce_data_analysis_numpy_pandas.git
    cd Ecommerce_data_analysis_numpy_pandas
-````
 
 2. Install required dependencies:
 
@@ -55,7 +54,7 @@ Ecommerce_Data_Analysis/
    jupyter notebook analysis_notebook.ipynb
    ```
 
----
+
 
 ## 📊 Analysis Performed
 
@@ -109,7 +108,3 @@ Ecommerce_Data_Analysis/
 **Avinash Kamble**
 [LinkedIn](https://www.linkedin.com/in/avinashzz)
 
-`
-
-👉 Do you want me to also create a **sample folder structure (with empty CSVs + notebook)** so you can directly push it to GitHub?
-```
