@@ -39,8 +39,8 @@ Ecommerce_analysis_numpy_pandas/
 ## ⚙️ Installation & Setup
 1. Clone repository:
     ``` bash
-   git clone https://github.com/avinash-kamble-9/Ecommerce_data_analysis_numpy_pandas.git
-   cd Ecommerce_data_analysis_numpy_pandas
+   git clone https://github.com/avinash-kamble-9/Ecommerce_analysis_numpy_pandas.git
+   cd Ecommerce_analysis_numpy_pandas
    ```
 2. Install required dependencies:
 
