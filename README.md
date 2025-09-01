@@ -19,7 +19,7 @@ Ecommerce_analysis_numpy_pandas/
 │── data/
 │   └── ecommerce_dataset.csv
 │
-│── notebook/
+│── notebooks/
 │   └── analysis_notebook.ipynb
 │
 │── output/
