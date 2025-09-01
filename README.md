@@ -15,21 +15,21 @@ All results are saved as **separate CSV files** for reporting and further usage.
 ## 📂 Project Structure
 ```
 
-Ecommerce_Data_Analysis/
+Ecommerce_analysis_numpy_pandas/
+│── data/
+│   └── ecommerce_dataset.csv
 │
-├── Data/
-│   ├── ecommerce_dataset.csv        # raw dataset
-│   ├── output_top_customers.csv     # top customers by revenue
-│   ├── output_top_products.csv      # best-selling products
-│   ├── output_least_products.csv    # least-selling products
-│   ├── output_monthly_sales.csv     # monthly sales trends
-│   ├── output_daily_sales.csv       # daily sales trends
-│   └── output_rfm.csv               # customer segmentation data
+│── notebook/
+│   └── notebook_analysis.ipynb
 │
-├── Notebooks/
-│   ├── analysis_notebook.ipynb       # cleaning raw dataset → cleaned dataset
+│── output/
+│   ├── top_customers.csv
+│   ├── top_products.csv
+│   ├── least_products.csv
+│   ├── monthly_sales.csv
+│   └── rfm.csv
 │
-└── README.md                        # project documentation
+│── README.md
 
 ````
 
